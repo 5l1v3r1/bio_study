@@ -1,0 +1,35 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1, p {
+  color: #333;
+}
+
+a {
+  text-decoration: underline;
+  cursor: pointer;
+  color: blue;
+}
+
+.short-answer {
+  font-style: italic;
+}
+
+.fill-in-answer, .fill-in-hidden {
+  margin-right: 10px;
+}
+
+.fill-in-answer a, .fill-in-hidden a {
+  margin-left: 5px;
+}
+
+.fill-in-answer {
+  text-decoration: underline;
+}
